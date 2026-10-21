@@ -1,3 +1,3 @@
-from math import sin, pi
+import math
 
-print(sin(pi / 2))
+print(math.log(8, 2))
